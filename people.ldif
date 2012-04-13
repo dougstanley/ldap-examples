@@ -1,0 +1,19 @@
+dn: cn=fred,ou=business,dc=uakron,dc=edu
+objectClass: top
+objectClass: organizationalRole
+cn: fred
+
+dn: cn=tom,ou=business,dc=uakron,dc=edu
+objectClass: top
+objectClass: organizationalRole
+cn: tom
+
+dn: cn=bill,ou=business,dc=uakron,dc=edu
+objectClass: top
+objectClass: organizationalRole
+cn: bill
+
+dn: cn=dave,ou=business,dc=uakron,dc=edu
+objectClass: top
+objectClass: organizationalRole
+cn: dave

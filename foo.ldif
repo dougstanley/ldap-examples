@@ -1,0 +1,4 @@
+dn: ou=business,dc=uakron,dc=edu
+objectClass: top
+objectClass: organizationalUnit
+ou: business
