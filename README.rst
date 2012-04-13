@@ -2,8 +2,8 @@
 README
 ******
 
-Author: Doug Stanley <dstanle@uakron.edu>
-Date: 4/12/12
+:Author: Doug Stanley <dstanle@uakron.edu>
+:Date: 4/12/12
 
 About
 =====
